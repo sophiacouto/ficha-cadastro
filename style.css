@@ -31,3 +31,29 @@ body {
 .cadastro-topo {
     flex: 4;
 }
+
+.cadastro-topo p {
+flex: 4;
+}
+
+.documentos-necessarios{
+    display: flex;
+    width: 1000px;
+    margin: auto;
+    background-color: #d8c7ad;
+    padding: 25px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.imagem-documentos{
+    flex: 1;
+}
+
+.dados-left {
+    flex: 2;
+}
+
+.dados-right {
+    flex: 2;
+}
