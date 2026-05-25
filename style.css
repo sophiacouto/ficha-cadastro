@@ -18,7 +18,7 @@ body {
 }
 
 .topo img {
-    width: 50px;
+    width: 80px;
 }
 
 .image {
@@ -46,8 +46,15 @@ flex: 4;
     border-radius: 10px;
 }
 
-.imagem-documentos{
+
+.imagem-documentos {
     flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imagem-documentos img{
+    width: 70px;
 }
 
 .dados-left {
