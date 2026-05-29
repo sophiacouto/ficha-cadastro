@@ -132,3 +132,14 @@ input {
     padding: 6px;
 
 }
+
+.documentos {
+    display: flex;
+    width: 1000px;
+    margin: auto;
+    padding: 25px;
+    background-color: #e4e2e2da;
+    border-radius: 10px;
+    margin-top: 30px;
+    flex-direction: column;
+}
